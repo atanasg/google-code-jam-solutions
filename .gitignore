@@ -1,4 +1,12 @@
-# Compiled class file
+# IDE files
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+
+# Compiled class files
+bin/
 *.class
 
 # Log file
